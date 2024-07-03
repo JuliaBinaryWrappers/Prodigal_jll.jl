@@ -1,0 +1,143 @@
+[[Prodigal]]
+arch = "aarch64"
+git-tree-sha1 = "779830f905b19a1de00aa02260a80ec44b1881b4"
+os = "macos"
+
+    [[Prodigal.download]]
+    sha256 = "795779cc3a85f11eb255843d66efca5fd2885ad21897f8a55b224906d6ddc91a"
+    url = "https://github.com/JuliaBinaryWrappers/Prodigal_jll.jl/releases/download/Prodigal-v2.6.3+0/Prodigal.v2.6.3.aarch64-apple-darwin.tar.gz"
+[[Prodigal]]
+arch = "aarch64"
+git-tree-sha1 = "63f04190a32e8e871a0f594b220c10d415ca17eb"
+libc = "glibc"
+os = "linux"
+
+    [[Prodigal.download]]
+    sha256 = "09cb0390136240a3302d7c513127618ab749507cb63337515bacd93c7028ce6f"
+    url = "https://github.com/JuliaBinaryWrappers/Prodigal_jll.jl/releases/download/Prodigal-v2.6.3+0/Prodigal.v2.6.3.aarch64-linux-gnu.tar.gz"
+[[Prodigal]]
+arch = "aarch64"
+git-tree-sha1 = "3df6ab4723e19edf07b08567005788e89951ef91"
+libc = "musl"
+os = "linux"
+
+    [[Prodigal.download]]
+    sha256 = "6929b8d05a8985430b49945543312eb9266aeed0a7456ca52df29f6d703de7c7"
+    url = "https://github.com/JuliaBinaryWrappers/Prodigal_jll.jl/releases/download/Prodigal-v2.6.3+0/Prodigal.v2.6.3.aarch64-linux-musl.tar.gz"
+[[Prodigal]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "e295b61054ef70b29e62f008d9720fc3117e8845"
+libc = "glibc"
+os = "linux"
+
+    [[Prodigal.download]]
+    sha256 = "9818bde78f7a7ddf735dcd74e21fccdc10b339080b764979c3d8353ae937f234"
+    url = "https://github.com/JuliaBinaryWrappers/Prodigal_jll.jl/releases/download/Prodigal-v2.6.3+0/Prodigal.v2.6.3.armv6l-linux-gnueabihf.tar.gz"
+[[Prodigal]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "02fa8001b1f47e819a641082ba9139b326042822"
+libc = "musl"
+os = "linux"
+
+    [[Prodigal.download]]
+    sha256 = "15ae835f73bd928fb08152b05da0e3dd194d8721873359d759093d8655469fde"
+    url = "https://github.com/JuliaBinaryWrappers/Prodigal_jll.jl/releases/download/Prodigal-v2.6.3+0/Prodigal.v2.6.3.armv6l-linux-musleabihf.tar.gz"
+[[Prodigal]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "3c24cfb9a52888b01740bca83fbc070dd198c65e"
+libc = "glibc"
+os = "linux"
+
+    [[Prodigal.download]]
+    sha256 = "300188f18ef7899f638b76c00929949db39ff4fbd040c5006e8027f03f1a7cd4"
+    url = "https://github.com/JuliaBinaryWrappers/Prodigal_jll.jl/releases/download/Prodigal-v2.6.3+0/Prodigal.v2.6.3.armv7l-linux-gnueabihf.tar.gz"
+[[Prodigal]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "a57e12a02df7762f95bfac1393a2fb1b98f00ff6"
+libc = "musl"
+os = "linux"
+
+    [[Prodigal.download]]
+    sha256 = "f814c7cb52f18db94a16f4db41ed8ba6058771666d5132a65ac48ee51b70dfe1"
+    url = "https://github.com/JuliaBinaryWrappers/Prodigal_jll.jl/releases/download/Prodigal-v2.6.3+0/Prodigal.v2.6.3.armv7l-linux-musleabihf.tar.gz"
+[[Prodigal]]
+arch = "i686"
+git-tree-sha1 = "2aeb5b640e45256e460e51bb7757a7ae56f9a77b"
+libc = "glibc"
+os = "linux"
+
+    [[Prodigal.download]]
+    sha256 = "257d382e051f0929c412dc5a6f0378acdc7da82313b8992b19a02206a09c8899"
+    url = "https://github.com/JuliaBinaryWrappers/Prodigal_jll.jl/releases/download/Prodigal-v2.6.3+0/Prodigal.v2.6.3.i686-linux-gnu.tar.gz"
+[[Prodigal]]
+arch = "i686"
+git-tree-sha1 = "1b415059fb0260fccf034c5a46422b369630bafe"
+libc = "musl"
+os = "linux"
+
+    [[Prodigal.download]]
+    sha256 = "774f39db88d9d5428aa5f0c302e0d980711d76c113a172b1220a82cca348512e"
+    url = "https://github.com/JuliaBinaryWrappers/Prodigal_jll.jl/releases/download/Prodigal-v2.6.3+0/Prodigal.v2.6.3.i686-linux-musl.tar.gz"
+[[Prodigal]]
+arch = "i686"
+git-tree-sha1 = "f0ded8a0aab00b47b0aa56c93e869e7957f69dd7"
+os = "windows"
+
+    [[Prodigal.download]]
+    sha256 = "f2b99e469dd2bf4b7a5fa5ff8f25f9e239955984e24ac62286d13fa68e3a8999"
+    url = "https://github.com/JuliaBinaryWrappers/Prodigal_jll.jl/releases/download/Prodigal-v2.6.3+0/Prodigal.v2.6.3.i686-w64-mingw32.tar.gz"
+[[Prodigal]]
+arch = "powerpc64le"
+git-tree-sha1 = "21fc776152942be5494da8524e414de696c9aff7"
+libc = "glibc"
+os = "linux"
+
+    [[Prodigal.download]]
+    sha256 = "7df6784f74d1e138ebe4635b26c5b7e672df0ef2a20f26431635248fb52744e8"
+    url = "https://github.com/JuliaBinaryWrappers/Prodigal_jll.jl/releases/download/Prodigal-v2.6.3+0/Prodigal.v2.6.3.powerpc64le-linux-gnu.tar.gz"
+[[Prodigal]]
+arch = "x86_64"
+git-tree-sha1 = "0d68570a97bbec96fb182a69211360bd127c69c9"
+os = "macos"
+
+    [[Prodigal.download]]
+    sha256 = "d125db9dae9339492e431fb3f6e6de6839b008d3b3a1ff764c324c828b1bb57c"
+    url = "https://github.com/JuliaBinaryWrappers/Prodigal_jll.jl/releases/download/Prodigal-v2.6.3+0/Prodigal.v2.6.3.x86_64-apple-darwin.tar.gz"
+[[Prodigal]]
+arch = "x86_64"
+git-tree-sha1 = "d95f315f62c05592097f0366b17b69e562be83b3"
+libc = "glibc"
+os = "linux"
+
+    [[Prodigal.download]]
+    sha256 = "20df45b31486c213d33b270409af9090f3a5cadbfa8400c95f1551c62c99988d"
+    url = "https://github.com/JuliaBinaryWrappers/Prodigal_jll.jl/releases/download/Prodigal-v2.6.3+0/Prodigal.v2.6.3.x86_64-linux-gnu.tar.gz"
+[[Prodigal]]
+arch = "x86_64"
+git-tree-sha1 = "f67d78f822dcec6ae0b261a35049482be0fc1ac0"
+libc = "musl"
+os = "linux"
+
+    [[Prodigal.download]]
+    sha256 = "2cc071eb9e5b6f17984cc4e3aac8fdebaa1911f1b5958bca9ea25bb7ce7824b2"
+    url = "https://github.com/JuliaBinaryWrappers/Prodigal_jll.jl/releases/download/Prodigal-v2.6.3+0/Prodigal.v2.6.3.x86_64-linux-musl.tar.gz"
+[[Prodigal]]
+arch = "x86_64"
+git-tree-sha1 = "4e1ec8be52163fb96075a85fb2439f7d1a2aaf74"
+os = "freebsd"
+
+    [[Prodigal.download]]
+    sha256 = "8cd49ec80fea9bad9f4d4c1ea67d22831406a024c4e1cae33ad027d2dea137aa"
+    url = "https://github.com/JuliaBinaryWrappers/Prodigal_jll.jl/releases/download/Prodigal-v2.6.3+0/Prodigal.v2.6.3.x86_64-unknown-freebsd.tar.gz"
+[[Prodigal]]
+arch = "x86_64"
+git-tree-sha1 = "86b0cea939f6b7d2ee23560cf0c8cacbd2beb237"
+os = "windows"
+
+    [[Prodigal.download]]
+    sha256 = "740a96b9ab332827b1d0276159c34bc73be873d4deb250319bcfee47fa87cc14"
+    url = "https://github.com/JuliaBinaryWrappers/Prodigal_jll.jl/releases/download/Prodigal-v2.6.3+0/Prodigal.v2.6.3.x86_64-w64-mingw32.tar.gz"
